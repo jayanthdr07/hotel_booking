@@ -18,7 +18,7 @@ A responsive web application to explore and book hotels across major Indian citi
 
 ---
 
-## 📂 Project Structure
+## 📂 Project Structure.
 
 hotels-booking/
 │
