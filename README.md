@@ -29,7 +29,7 @@ hotels-booking/
 
 ---
 
-## 🎨 Technologies Used
+## 🎨 Technologies Used.
 
 - **HTML5** – Structure of the web pages
 - **CSS3** – Styling and responsive layout
